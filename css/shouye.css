@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:aliceblue;
+}
+p{
+	font-size: 22px;
+	line-height: 28px;
+}
+h4{
+	line-height: 35px;
+}
+/**/
+.margin_top_30{
+	margin-top: -30px;
+}
+.padding_50{
+	padding: 50px 0px;
+}
+.padding_30_0{
+	padding: 30px 0px;
+}
+.bg_color{
+	background-color:rgba(217,202,165,1);
+}
+.border_1{
+	border: 1px solid #9C1416; 
+}

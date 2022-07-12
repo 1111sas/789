@@ -1,0 +1,18 @@
+@charset "utf-8";
+.bg_image{
+ width: 100%;
+ height: 600px;
+ margin-top: -30px;
+ background-image: url("../images/about_bg.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.padding_30_0{
+	padding:  30px 0px;
+}
+.padding_15_0{
+	padding:  15px 0px;
+}
+.ziti{
+	font-size:18px;
+}

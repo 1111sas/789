@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+p{
+	line-height: 25px;
+	text-indent: 2em;
+}
+.banquan{
+	height: 100px;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items:center;
+}
+.banquan h3{
+	font-size: 18px;
+}
+.padding_30{
+	padding:  30px;
+}
+.h200{
+	height: 200px;
+}
